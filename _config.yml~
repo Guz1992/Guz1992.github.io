@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Gustavo Macedo Rodrigues
+name: Your Name
 
 # Short bio or description (displayed in the header)
-description: Vamo testar essa parada 
+description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.facebook.com/photo.php?fbid=1191352394213439&set=p.1191352394213439&type=3&theater&notif_t=mentions_comment
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://www.facebook.com/photo.php?fbid=1191352394213439&set=p.119135239
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:gustavogpi25@gmail.com
+  email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
