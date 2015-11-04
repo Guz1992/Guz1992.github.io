@@ -9,7 +9,7 @@ name: Gustavo Macedo Rodrigues
 description: Vamo testar essa parada 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.facebook.com/photo.php?fbid=1191352394213439&set=p.1191352394213439&type=3&theater&notif_t=mentions_comment
+avatar: https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/12193428_1191352394213439_7588826317719667885_n.jpg?oh=9391b88351a7cc74593b9c4b9915bf77&oe=56B7324A&__gda__=1454182176_815bec873994c29291e3ead353b4f092
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://www.facebook.com/photo.php?fbid=1191352394213439&set=p.119135239
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:gustavogpi25@gmail.com
+  email: gustavogpi25@gmail.com
   facebook:
   flickr:
   github: barryclark/jekyll-now
